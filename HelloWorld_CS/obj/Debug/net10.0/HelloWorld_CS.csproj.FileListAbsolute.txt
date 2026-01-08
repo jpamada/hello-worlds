@@ -1,0 +1,14 @@
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\bin\Debug\net10.0\HelloWorld_CS.exe
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\bin\Debug\net10.0\HelloWorld_CS.deps.json
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\bin\Debug\net10.0\HelloWorld_CS.runtimeconfig.json
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\bin\Debug\net10.0\HelloWorld_CS.dll
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\bin\Debug\net10.0\HelloWorld_CS.pdb
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.AssemblyInfoInputs.cache
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.AssemblyInfo.cs
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.csproj.CoreCompileInputs.cache
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.dll
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\refint\HelloWorld_CS.dll
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.pdb
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\HelloWorld_CS.genruntimeconfig.cache
+C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_CS\obj\Debug\net10.0\ref\HelloWorld_CS.dll

@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "Main",
+      "mainClass": "Main",
+      "buildTarget": "file:/C:/Users/John%20Rey/AppData/Local/Temp/helloworld_scala/?id=helloworld_scala",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

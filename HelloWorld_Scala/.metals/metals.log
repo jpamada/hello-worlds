@@ -1,0 +1,67 @@
+2026.01.08 16:01:56 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\John Rey\AppData\Local\Temp\helloworld_scala' for client Visual Studio Code 1.107.1.
+2026.01.08 16:01:57 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.08 16:02:00 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-25.0.1.8-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\JOHNRE~1\AppData\Local\Temp\metals5204410609100761151\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2026.01.08 16:02:01 ERROR WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+2026.01.08 16:02:01 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by net.openhft.hashing.UnsafeAccess (file:/C:/Users/John%20Rey/.sbt/boot/scala-2.12.21/org.scala-sbt/sbt/1.12.0/zero-allocation-hashing-0.16.jar)
+2026.01.08 16:02:01 ERROR WARNING: Please consider reporting this to the maintainers of class net.openhft.hashing.UnsafeAccess
+2026.01.08 16:02:01 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+2026.01.08 16:02:01 ERROR WARNING: A restricted method in java.lang.System has been called
+2026.01.08 16:02:01 ERROR WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/John%20Rey/.sbt/boot/scala-2.12.21/org.scala-sbt/sbt/1.12.0/jna-5.12.0.jar)
+2026.01.08 16:02:01 ERROR WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+2026.01.08 16:02:01 ERROR WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+2026.01.08 16:02:01 ERROR 
+2026.01.08 16:02:02 INFO  [info] welcome to sbt 1.12.0 (Eclipse Adoptium Java 25.0.1)
+2026.01.08 16:02:05 INFO  [info] loading settings for project helloworld_scala-build-build from metals.sbt...
+2026.01.08 16:02:05 INFO  [info] loading project definition from C:\Users\John Rey\AppData\Local\Temp\helloworld_scala\project\project
+2026.01.08 16:02:08 INFO  [info] loading settings for project helloworld_scala-build from metals.sbt...
+2026.01.08 16:02:08 INFO  [info] loading project definition from C:\Users\John Rey\AppData\Local\Temp\helloworld_scala\project
+2026.01.08 16:02:12 INFO  [success] Generated .bloop\helloworld_scala-build.json
+2026.01.08 16:02:12 INFO  [success] Total time: 4 s, completed Jan 8, 2026, 4:02:12 PM
+2026.01.08 16:02:14 INFO  [info] loading settings for project helloworld_scala from build.sbt...
+2026.01.08 16:02:14 INFO  [info] set current project to hello-world (in build file:/C:/Users/John%20Rey/AppData/Local/Temp/helloworld_scala/)
+2026.01.08 16:02:14 INFO  [success] Generated .bloop\helloworld_scala-test.json
+2026.01.08 16:02:14 INFO  [success] Generated .bloop\helloworld_scala.json
+2026.01.08 16:02:14 INFO  [success] Total time: 0 s, completed Jan 8, 2026, 4:02:15 PM
+2026.01.08 16:02:15 INFO  time: ran 'sbt bloopInstall' in 15s
+2026.01.08 16:02:15 INFO  Attempting to connect to the build server...
+2026.01.08 16:02:15 INFO  Found a Bloop server running
+2026.01.08 16:02:15 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\John Rey\AppData\Local\Temp\helloworld_scala\.metals\bsp.trace.json or C:\Users\John Rey\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.01.08 16:02:16 INFO  Attempting to connect to the build server...
+2026.01.08 16:02:16 INFO  Found a Bloop server running
+2026.01.08 16:02:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\John Rey\AppData\Local\Temp\helloworld_scala\project\.metals\bsp.trace.json or C:\Users\John Rey\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.01.08 16:02:16 INFO  time: Connected to build server in 1.24s
+2026.01.08 16:02:16 INFO  Connected to Build server: Bloop v2.0.17
+2026.01.08 16:02:16 INFO  time: Imported build in 0.11s
+2026.01.08 16:02:16 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2026.01.08 16:02:20 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.08 16:02:38 INFO  time: indexed workspace in 22s
+2026.01.08 16:02:58 INFO  compiling helloworld_scala (1 scala source)
+2026.01.08 16:03:01 INFO  time: compiled helloworld_scala in 2.35s
+Jan 08, 2026 4:03:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 08, 2026 4:03:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 08, 2026 4:03:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.01.08 16:04:45 INFO  Shutting down server
+2026.01.08 16:04:45 INFO  shutting down Metals
+2026.01.08 16:04:45 INFO  Shut down connection with build server.
+2026.01.08 16:04:45 INFO  Shut down connection with build server.
+2026.01.08 16:04:45 INFO  Exiting server
+2026.01.08 16:05:48 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala' for client Visual Studio Code 1.107.1.
+2026.01.08 16:05:50 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.08 16:05:51 INFO  Attempting to connect to the build server...
+2026.01.08 16:05:51 INFO  Found a Bloop server running
+2026.01.08 16:05:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\.metals\bsp.trace.json or C:\Users\John Rey\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.01.08 16:05:52 INFO  Attempting to connect to the build server...
+2026.01.08 16:05:52 INFO  Found a Bloop server running
+2026.01.08 16:05:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\project\.metals\bsp.trace.json or C:\Users\John Rey\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.01.08 16:05:52 INFO  time: Connected to build server in 1.55s
+2026.01.08 16:05:52 INFO  Connected to Build server: Bloop v2.0.17
+2026.01.08 16:05:52 INFO  time: Imported build in 0.17s
+2026.01.08 16:05:52 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2026.01.08 16:05:54 INFO  Shutting down server
+2026.01.08 16:05:54 INFO  shutting down Metals
+2026.01.08 16:05:54 INFO  Shut down connection with build server.
+2026.01.08 16:05:54 INFO  Shut down connection with build server.
+2026.01.08 16:05:54 INFO  Exiting server
