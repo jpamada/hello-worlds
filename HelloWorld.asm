@@ -1,13 +1,13 @@
 section .data
-    msg db "Hello World!", 10, 0   ; newline + null-terminated
+    msg db "Hello World!", 10, 0
 
 section .text
     global main
     extern printf
 
 main:
-    sub rsp, 40        ; shadow space (REQUIRED on Windows x64)
-    lea rcx, [rel msg] ; first argument (format string)
+    sub rsp, 40
+    lea rcx, [rel msg]
     call printf
     add rsp, 40
 

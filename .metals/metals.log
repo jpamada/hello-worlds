@@ -1407,3 +1407,23 @@ INFO: Unsupported notification method: $/setTrace
 2026.01.08 23:49:04 INFO  time: code lens generation in 2.84s
 2026.01.08 23:49:04 INFO  time: code lens generation in 1.45s
 2026.01.08 23:49:07 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 2.13.18
+Jan 08, 2026 11:51:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jan 08, 2026 11:51:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.01.08 23:57:03 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java. Using fallback presentation compiler.
+2026.01.08 23:57:03 WARN  no build target for: C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java
+2026.01.08 23:57:03 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java. Using fallback presentation compiler.
+2026.01.08 23:57:04 WARN  Running javac-semanticdb failed for file:///C:/Users/John%20Rey/Personal/Projects/hello-world/HelloWorld.java. Output:
+
+Jan 08, 2026 11:57:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2026.01.08 23:57:04 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java. Using fallback presentation compiler.
+Jan 08, 2026 11:57:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+2026.01.08 23:57:04 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java. Using fallback presentation compiler.
+Jan 08, 2026 11:57:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2026.01.08 23:57:04 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld.java. Using fallback presentation compiler.
+Jan 08, 2026 11:57:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
