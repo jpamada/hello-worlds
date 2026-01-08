@@ -1386,3 +1386,24 @@ INFO: Unsupported notification method: $/setTrace
 2026.01.08 17:25:52 INFO  shutting down Metals
 2026.01.08 17:25:53 INFO  Shut down connection with build server.
 2026.01.08 17:25:52 INFO  Exiting server
+2026.01.08 23:48:37 INFO  Started: Metals version 1.6.4 in folders 'C:\Users\John Rey\Personal\Projects\hello-world' for client Visual Studio Code 1.107.1.
+2026.01.08 23:48:39 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.08 23:48:39 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2026.01.08 23:48:42 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 3.3.6
+2026.01.08 23:48:42 INFO  Attempting to connect to the build server...
+2026.01.08 23:48:42 INFO  No running Bloop server found, starting one.
+2026.01.08 23:48:45 INFO  Starting compilation server
+2026.01.08 23:48:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\John Rey\Personal\Projects\hello-world\.metals\bsp.trace.json or C:\Users\John Rey\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.01.08 23:48:57 INFO  time: Connected to build server in 14s
+2026.01.08 23:48:57 INFO  Connected to Build server: Bloop v2.0.17
+2026.01.08 23:48:57 INFO  time: Imported build in 0.27s
+2026.01.08 23:48:57 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2026.01.08 23:49:00 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.01.08 23:49:00 INFO  time: indexed workspace in 3.86s
+2026.01.08 23:49:00 WARN  no build target for: C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala
+2026.01.08 23:49:01 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 2.13.18
+2026.01.08 23:49:01 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 2.13.18
+2026.01.08 23:49:01 WARN  no build target for: C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala
+2026.01.08 23:49:04 INFO  time: code lens generation in 2.84s
+2026.01.08 23:49:04 INFO  time: code lens generation in 1.45s
+2026.01.08 23:49:07 INFO  no build target found for C:\Users\John Rey\Personal\Projects\hello-world\HelloWorld_Scala\src\main\scala\HelloWorld.scala. Using presentation compiler with project's scala-library version: 2.13.18
